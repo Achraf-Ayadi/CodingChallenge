@@ -1,0 +1,20 @@
+sw-access-key: SWSCNKRPANNTOELDZFNVWKPAAW
+
+https://staging-ausbildung-shop.liebscher-bracht.com/store-api
+/product
+
+
+Fiktive URL: trackingDashboard.liebscher-bracht.com/addToCart
+
+Soll aufgerufen (in die Console geschrieben werden) wenn der Nutzer auf "in Warenkorb" geklickt
+
+
+Daten:
+- URL
+- Browser
+- Gerät + Fenster-Dimensionen
+- Standort + Sprache
+- Zeit bis zum "in Warenkorb" klicken
+
+
+Es kann sein, dass manche Felder / Daten nicht vorhanden sind. 
